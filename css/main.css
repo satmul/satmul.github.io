@@ -1,0 +1,37 @@
+.row h3{
+    display: inline;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+/* Image Sizing */
+img[alt=small] { 
+    width: 200px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img[alt=med] { 
+    width: 400px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img[alt=large] { 
+    width: 600px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

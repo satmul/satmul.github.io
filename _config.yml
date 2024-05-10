@@ -1,0 +1,14 @@
+name: satmul
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
+kramdown:
+  input: GFM
+  syntax_highliter: rouge
+
+
+theme: jekyll-theme-hacker
+
+
+title: Skiddies101
+description: Writeup Page
