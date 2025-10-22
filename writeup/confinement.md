@@ -7,7 +7,7 @@ Finding the proper FTK Imager versions. We're using v4.7.1 to load the file.
 
 Load the image file to FTK Imager
 
-![](.../image/confinement/1.png)
+![](../image/confinement/1.png)
 
 As we can see here, all files on `C:\users\tommyxiaomi\documents\` is encrypted with ransomware
 
